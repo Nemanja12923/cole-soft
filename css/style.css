@@ -76,20 +76,20 @@ nav ul li a:hover{
 
 		/*POČETNA FOTOGRAFIJA*/
 
-.pocetna-fotografija{
+#pocetna-fotografija{
 	height: 620px;
 	position: relative;
 	
 }
 
-.pocetna-fotografija img{
+#pocetna-fotografija img{
 	height: 100%;
 	width: 100%;
 	display: block;
 	object-fit: cover;
 }
 
-.text-pocetna-fotografija{
+#text-pocetna-fotografija{
 	position: absolute;
 	left: 20px;
 	top: 310px;
@@ -100,7 +100,7 @@ nav ul li a:hover{
 	font-family: 'Lato', sans-serif;
 }
 
-.text-pocetna{
+#text-pocetna{
 	margin-left: 15px;
 	margin-right: 15px;
 	background-color: rgba(14, 14, 16, 0.85);
@@ -108,13 +108,13 @@ nav ul li a:hover{
 	width: 70%;
 }
 
-.text-pocetna-fotografija h2{
+#text-pocetna-fotografija h2{
 	color: rgb(252, 168, 44);
     text-align: left;
     line-height:50px;
     font-size: 45px;
 }
-.text-pocetna-fotografija h3{
+#text-pocetna-fotografija h3{
     color: rgb(252, 168, 44);
     text-align: left;
     line-height: 60px;
@@ -122,7 +122,7 @@ nav ul li a:hover{
 }
 
 
-.text-pocetna-fotografija p{
+#text-pocetna-fotografija p{
 	color: #fff;
 	margin-bottom:10px;
 	font-size: 35px;
@@ -130,7 +130,7 @@ nav ul li a:hover{
 	line-height:43px;
 }
 
-.text-pocetna-fotografija a{
+#text-pocetna-fotografija a{
 	margin-top:5px;
 	padding: 10px 10px;
 	display: inline-block;
@@ -139,7 +139,7 @@ nav ul li a:hover{
 	text-decoration: none;
 	transition: all 0.3s linear;
 }
-.text-pocetna-fotografija a:hover{
+#text-pocetna-fotografija a:hover{
 	color: #fff;
 	background-color: rgba(252, 168, 44, 0.9);
 }
@@ -228,7 +228,7 @@ nav ul li a:hover{
 	height:662px;
 	margin-right: auto;
 	margin-left: auto;
-	background-image: url(../slike/sto.jpg);
+	background-image: url(../images/sto.jpg);
 	background-size: cover;
     background-repeat: repeat-y;
     background-attachment: fixed;
@@ -435,7 +435,7 @@ table {
 }
 
 #o-autoru{
-	background-image: url(../slike/sto.jpg);
+	background-image: url(../images/sto.jpg);
 	background-size: cover;
     background-repeat: repeat-y;
     background-attachment: fixed;
@@ -513,7 +513,7 @@ table {
 }
 
 .o-nama{
-	background-image: url(../slike/sto.jpg);
+	background-image: url(../images/sto.jpg);
 	background-size: cover;
     background-repeat: repeat-y;
     background-attachment: fixed;
@@ -574,7 +574,7 @@ table {
 				
 				
 #delatnost {
-	background-image: url(../slike/sto.jpg);
+	background-image: url(../images/sto.jpg);
 	background-size: cover;
     background-repeat: repeat-y;
     background-attachment: fixed;
