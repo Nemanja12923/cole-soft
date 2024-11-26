@@ -244,7 +244,7 @@ nav ul li a:hover{
 }
 
 
-.usluge h3{
+#usluge h3{
 	width: 100%;
 	font-size: 30px;
 	text-align: center;
@@ -254,7 +254,7 @@ nav ul li a:hover{
 	color: rgb(255, 255, 255);
 }
 
-.usluge a{
+#usluge a{
 	padding: 10px 10px;
     display: inline-block;
     text-decoration: none;
@@ -263,7 +263,7 @@ nav ul li a:hover{
     margin-top: 32px;
 }
 
-.usluge a:hover{
+#usluge a:hover{
 	background-color: rgb(50, 50, 50);
 	color: #fff;
 }
