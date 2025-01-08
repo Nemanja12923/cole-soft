@@ -1,30 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>https://nemanja12923.github.io/cole-soft</loc>
- <lastmod>2023-12-01T15:25:56+00:00</lastmod>
-  <priority>1.00</priority>
+     <!-- <loc>https://github.com/0lordglory0/ofelija.github.io/index.html</loc> -->
+     
+     <!--OVDE PIŠEŠ U TOKU GITHUBA, DAKLE KAD TAMO DOBIJEŠ IME SA HTTPS PROTOKOLOM, STAVIŠ U TAG <loc>,
+     TO NMG JA, TO MORAŠ TI KAD BUDEŠ GITHUB RADIO, U OSTALIM TAGOVIMA MOŽEŠ DA MENJAŠ SADRŽAJ-->>
+    <lastmod>2024-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
 </url>
 <url>
-  <loc>https://nemanja12923.github.io/cole-soft/index.html</loc>
-   <lastmod>2023-12-01T15:25:56+00:00</lastmod>
-  <priority>0.80</priority>
+    <loc></loc>
+    <lastmod>2024-12-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
 </url>
 <url>
-  <loc>https://nemanja12923.github.io/cole-soft/o-nama.html</loc>
-   <lastmod>2023-12-01T15:25:56+00:00</lastmod>
-  <priority>0.80</priority>
+    <loc></loc>
+    <lastmod>2024-12-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
 </url>
 <url>
-  <loc>https://nemanja12923.github.io/cole-soft/delatnosti.html</loc>
- <lastmod>2023-12-01T15:25:56+00:00</lastmod>
-  <priority>0.80</priority>
+    <loc></loc>
+    <lastmod>2024-12-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
 </url>
 <url>
-  <loc>https://nemanja12923.github.io/cole-soft/o-autoru.html</loc>
-  <lastmod>2023-12-01T15:25:56+00:00</lastmod>
-  <priority>0.80</priority>
+    <loc></loc>
+    <lastmod>2024-12-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
 </url>
-
-
 </urlset>
