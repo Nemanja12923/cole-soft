@@ -1,9 +1,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-     <!-- <loc>https://github.com/0lordglory0/ofelija.github.io/index.html</loc> -->
-     
-     <!--OVDE PIŠEŠ U TOKU GITHUBA, DAKLE KAD TAMO DOBIJEŠ IME SA HTTPS PROTOKOLOM, STAVIŠ U TAG <loc>,
-     TO NMG JA, TO MORAŠ TI KAD BUDEŠ GITHUB RADIO, U OSTALIM TAGOVIMA MOŽEŠ DA MENJAŠ SADRŽAJ-->>
+     <loc>https://nemanja12923.github.io/cole-soft/index.html</loc>
     <lastmod>2024-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
